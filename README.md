@@ -1,2 +1,2 @@
-# ReactNorthwindProject
-Northwind veri tabanı ile React kullanılarak oluşturulan temel işlemleri gerçekleştiren proje
+# ReactReduxNorthwindProject
+Northwind veri tabanı ile React ve Redux kullanılarak oluşturulan temel işlemleri gerçekleştiren proje.
